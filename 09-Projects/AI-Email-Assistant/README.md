@@ -36,7 +36,7 @@ This tool automates the entire process in seconds using AI!
 - **Streamlit** — Web UI framework
 
 ---
-
+---
 ## 📂 Project Structure
 AI-Email-Assistant/
 ├── app.py # Streamlit UI
@@ -95,7 +95,7 @@ Dear Customer, we sincerely apologize for the delay...
 
 **Eman Fatima**
 - 🔗 GitHub: [@emanfatima3456-wq](https://github.com/emanfatima3456-wq)
-- 💼 LinkedIn: [Your LinkedIn URL]
+- 💼 LinkedIn: [https://www.linkedin.com/posts/eman-fatima-251062402_aiautomation-artificialintelligence-python-ugcPost-7487795740229140482-4TVj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGbhFN0BLcUNzWpQEj3Oh4c4olbuPVsGDAQ]
 
 ---
 
