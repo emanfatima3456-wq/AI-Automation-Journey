@@ -38,12 +38,14 @@ This tool automates the entire process in seconds using AI!
 ---
 ---
 ## 📂 Project Structure
+```
 AI-Email-Assistant/
 ├── app.py # Streamlit UI
 ├── email_assistant.py # AI logic
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
 ---
+```
 
 ## ⚙️ How To Run Locally
 
