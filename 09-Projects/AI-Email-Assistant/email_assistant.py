@@ -1,7 +1,7 @@
 import cohere
 import json
 
-client = cohere.ClientV2(api_key="b1uAEIebpoSaJqifrFkp2kpMjoxlBXP2nDoKwZ9b")
+client = cohere.ClientV2(api_key="  your-cohere-key-here")
 
 def analyze_email(email_text):
     response = client.chat(
