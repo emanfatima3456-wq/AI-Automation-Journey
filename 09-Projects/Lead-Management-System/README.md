@@ -73,6 +73,13 @@ Cohere AI → Google Sheets → Dashboard
 ```
 
 ---
+## Screen shot
+---
+<img width="736" height="280" alt="image" src="https://github.com/user-attachments/assets/824e9fbe-ffeb-4bff-9380-5041d7c30bb5" />
+<img width="949" height="358" alt="image" src="https://github.com/user-attachments/assets/d3cf7790-ac4d-41e3-a5f5-e7a992443783" />
+<img width="941" height="394" alt="image" src="https://github.com/user-attachments/assets/d0b39cb2-d2b1-4a7f-9dba-723a5dd28eee" />
+---
+
 
 ## ⚙️ How To Run
 
@@ -100,7 +107,7 @@ Open index.html in browser
 
 **Eman Fatima**
 - 🔗 GitHub: [@emanfatima3456-wq](https://github.com/emanfatima3456-wq)
-- 💼 LinkedIn: [Your LinkedIn URL]
+- 💼 LinkedIn: [https://www.linkedin.com/in/eman-fatima-251062402/]
 
 ---
 
