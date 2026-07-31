@@ -48,11 +48,13 @@ Real-time Dashboard
 ---
 
 ## 📂 Project Structure
+```
 Lead-Management-System/
 ├── index.html # Lead capture form
 ├── app.py # Streamlit dashboard
 └── README.md # Documentation
 ---
+
 
 ## 🔄 Workflow
 HTML Form → n8n Webhook → Code Node →
