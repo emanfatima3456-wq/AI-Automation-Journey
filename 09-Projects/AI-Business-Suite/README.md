@@ -2,9 +2,6 @@
 
 > An end-to-end AI-powered lead management system that automatically scores leads, generates personalized emails, and sends them — with zero manual work!
 
-![Dashboard](screenshots/dashboard.png)
-![Lead Form](screenshots/leadform.png)
-
 ---
 
 ## ✨ Features
@@ -144,10 +141,10 @@ COHERE_API_KEY=your_key_here
 | Lead Form | Dashboard |
 |---|---|
 | <img width="608" height="421" alt="image" src="https://github.com/user-attachments/assets/a5bb2823-8545-4bb3-8260-da604907822a" />
- | <img width="563" height="413" alt="image" src="https://github.com/user-attachments/assets/6d21d5ad-57cc-4039-b916-5a7ef05ee3b3" />
- |
+  <img width="563" height="413" alt="image" src="https://github.com/user-attachments/assets/6d21d5ad-57cc-4039-b916-5a7ef05ee3b3" />
+ 
  |<img width="914" height="350" alt="image" src="https://github.com/user-attachments/assets/7158a1c7-eaaf-4a8f-9834-8387b2d815a0" />
- | |<img width="739" height="258" alt="image" src="https://github.com/user-attachments/assets/7a1ef791-dd7c-4cf5-a14d-b5ebc7d903f9" />|
+  |<img width="739" height="258" alt="image" src="https://github.com/user-attachments/assets/7a1ef791-dd7c-4cf5-a14d-b5ebc7d903f9" />
 
 
 
