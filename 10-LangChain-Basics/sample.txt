@@ -1,0 +1,17 @@
+AI Automation Company Profile
+
+Company Name: TechCorp Pakistan
+Founded: 2020
+Location: Lahore, Pakistan
+
+Services:
+- AI Chatbots for businesses
+- Automation workflows
+- Machine Learning solutions
+
+Pricing:
+- Basic Plan: $500/month
+- Pro Plan: $1500/month
+- Enterprise Plan: $5000/month
+
+Contact: info@techcorp.pk
