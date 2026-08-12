@@ -133,6 +133,10 @@ OPENROUTER\_API\_KEY=your\_key\_here
 streamlit run app.py
 
 ```
+## 📸 Screenshots
+<img width="952" height="503" alt="image" src="https://github.com/user-attachments/assets/dab34b7a-98ce-451d-8eac-f4ae8a75e0e6" />
+```
+
 
 
 
